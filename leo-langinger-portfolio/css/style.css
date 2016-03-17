@@ -1,0 +1,37 @@
+/** {
+	border: 1px dashed black;
+}*/
+* {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 400;
+	color: #999999;
+}
+/*@media (max-width: 767px) {
+	body {
+		background-color: red;
+	}
+}*/
+@media (max-width: 992px) {
+	.f-work {
+		text-align: center;
+	}
+}
+
+h1 {
+	font-weight: 100;
+	font-size: 60px;
+}
+
+hr {
+	border: 1px solid black;
+}
+ .main-img {
+ 	margin: auto;
+ }
+
+ .work-box {
+ 	margin-bottom: 30px;
+ }
+.vid-body {
+	border: none;
+}

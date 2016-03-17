@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style type="text/css"></style>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Josefin+Sans:400,100' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="js/jquery-2.2.0.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leo Langinger's Portfolio</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div class="row">
+          <div class="col-md-12 text-center text-uppercase">
+            <h1>Leo Langinger</h1>
+            <h3>Composer, Web Developer, Modern Man</h3>
+          </div>
+        </div>
+      </header>
+      <hr> <!-- Divider -->
+      <img class="img-responsive main-img" title="Taken at 5Pointz, Brooklyn, before it was torn down," src="./images/cover-img.jpg" alt="Cover image">
+      
+      <hr> <!-- Divider -->
+      <section>  
+        <h2 class="f-work">Featured Work</h2>  
+        <div class="row text-center work-box">
+          <div class="col-md-4">
+            <img class="img-responsive center-block img-rounded" title="Click Me!" src="./images/a-kut.jpg" alt="Lenovo ad" data-toggle="modal" data-target="#project1">
+            <h3>Lenovo Ad</h3>
+          </div>
+          <div class="col-md-4">
+            <img class="img-responsive center-block img-rounded" title="Click Me!" src="./images/harvard.jpg" alt="Harvard Video" data-toggle="modal" data-target="#project2">
+            <h3>Harvard Video</h3>
+          </div>
+          <div class="col-md-4">
+            <img class="img-responsive center-block img-rounded" title="Click Me!" src="./images/pronica.jpg" alt="Micro Documentary" data-toggle="modal" data-target="#project3">
+            <h3>Micro-Documentary</h3>
+          </div>
+        </div>
+      </section>
+      
+      <!-- Modal Project 1 -->
+      <div class="modal fade" id="project1" tabindex="-1" role="dialog" aria-labelledby="lenovo" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h4 class="modal-title text-center" id="lenovo">Lenovo Ad</h4>
+            </div>
+            <div class="modal-body">
+              <iframe class="vid-body" src="https://player.vimeo.com/video/84821818" width="555" height="312" allowfullscreen></iframe>
+              <p><a href="https://vimeo.com/84821818">Lenovo 18 hours</a> from <a href="https://vimeo.com/user14641380">Leo Langinger</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+              This ad, featuring music written by me, was shown during a live Lenovo product release in 2013
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Modal Project 2 -->
+      <div class="modal fade" id="project2" tabindex="-1" role="dialog" aria-labelledby="harvard" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h4 class="modal-title text-center" id="harvard">Harvard Video</h4>
+            </div>
+            <div class="modal-body">
+              <iframe class="vid-body" src="https://player.vimeo.com/video/131026766" width="555" height="312" allowfullscreen></iframe>
+              <p><a href="https://vimeo.com/131026766">DTE Tribute Long v3</a> from <a href="https://vimeo.com/user14641380">Leo Langinger</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+              This was a video made for the outgoing Dean of the Harvard Kennedy School. I provided original music, dialogue editing and full audio mix.
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Modal Project 3 -->
+      <div class="modal fade" id="project3" tabindex="-1" role="dialog" aria-labelledby="micro-doc" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h4 class="modal-title text-center" id="micro-doc">Micro-Documentary</h4>
+            </div>
+            <div class="modal-body">
+              <iframe class="vid-body" src="https://player.vimeo.com/video/142301337" width="555" height="312" allowfullscreen></iframe>
+              <p><a href="https://vimeo.com/142301337">Pronica Micro Documentary</a> from <a href="https://vimeo.com/user14641380">Leo Langinger</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+              A short documentary about a Nicaraguan organisation, Pronica, whose mission is to help women who live in poverty to learn a trade and improve their lives. I provided original music, dialogue editing and full audio mix.
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </body></html>
