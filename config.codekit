@@ -2,144 +2,153 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19102",
 "files": {
-	"\/leo-langinger-portfolio\/config.json": {
+	"\/*bootstrap-prestructure.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/*bootstrap-prestructure.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/config.json": {
 		"fileType": 524288,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/config.json",
+		"inputAbbreviatedPath": "\/config.json",
 		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/leo-langinger-portfolio\/config-min.json",
+		"outputAbbreviatedPath": "\/config-min.json",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
-	"\/leo-langinger-portfolio\/css\/bootstrap-theme.css": {
+	"\/css\/bootstrap-theme.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/css\/bootstrap-theme.css",
+		"inputAbbreviatedPath": "\/css\/bootstrap-theme.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/leo-langinger-portfolio\/css\/bootstrap-theme.min.css": {
+	"\/css\/bootstrap-theme.min.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/css\/bootstrap-theme.min.css",
+		"inputAbbreviatedPath": "\/css\/bootstrap-theme.min.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/leo-langinger-portfolio\/css\/bootstrap.css": {
+	"\/css\/bootstrap.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/css\/bootstrap.css",
+		"inputAbbreviatedPath": "\/css\/bootstrap.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/leo-langinger-portfolio\/css\/bootstrap.min.css": {
+	"\/css\/bootstrap.min.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/css\/bootstrap.min.css",
+		"inputAbbreviatedPath": "\/css\/bootstrap.min.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/leo-langinger-portfolio\/css\/style.css": {
+	"\/css\/style.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/css\/style.css",
+		"inputAbbreviatedPath": "\/css\/style.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/leo-langinger-portfolio\/images\/a-kut.jpg": {
+	"\/images\/a-kut.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 43581,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/images\/a-kut.jpg",
-		"outputAbbreviatedPath": "\/leo-langinger-portfolio\/images\/a-kut.jpg",
+		"initialSize": 44685,
+		"inputAbbreviatedPath": "\/images\/a-kut.jpg",
+		"outputAbbreviatedPath": "\/images\/a-kut.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/leo-langinger-portfolio\/images\/cover-img.jpg": {
+	"\/images\/cover-img.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 79535,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/images\/cover-img.jpg",
-		"outputAbbreviatedPath": "\/leo-langinger-portfolio\/images\/cover-img.jpg",
+		"inputAbbreviatedPath": "\/images\/cover-img.jpg",
+		"outputAbbreviatedPath": "\/images\/cover-img.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/leo-langinger-portfolio\/images\/harvard.jpg": {
+	"\/images\/harvard.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 38162,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/images\/harvard.jpg",
-		"outputAbbreviatedPath": "\/leo-langinger-portfolio\/images\/harvard.jpg",
+		"initialSize": 35202,
+		"inputAbbreviatedPath": "\/images\/harvard.jpg",
+		"outputAbbreviatedPath": "\/images\/harvard.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/leo-langinger-portfolio\/images\/pronica.jpg": {
+	"\/images\/pronica.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 33362,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/images\/pronica.jpg",
-		"outputAbbreviatedPath": "\/leo-langinger-portfolio\/images\/pronica.jpg",
+		"initialSize": 31059,
+		"inputAbbreviatedPath": "\/images\/pronica.jpg",
+		"outputAbbreviatedPath": "\/images\/pronica.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/leo-langinger-portfolio\/js\/bootstrap.js": {
+	"\/js\/bootstrap.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/js\/bootstrap.js",
-		"outputAbbreviatedPath": "\/leo-langinger-portfolio\/js\/min\/bootstrap-min.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap.js",
+		"outputAbbreviatedPath": "\/js\/min\/bootstrap-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/leo-langinger-portfolio\/js\/bootstrap.min.js": {
+	"\/js\/bootstrap.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/js\/bootstrap.min.js",
-		"outputAbbreviatedPath": "\/leo-langinger-portfolio\/js\/min\/bootstrap.min-min.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/bootstrap.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/leo-langinger-portfolio\/js\/jquery-2.2.0.js": {
+	"\/js\/jquery-2.2.0.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/js\/jquery-2.2.0.js",
-		"outputAbbreviatedPath": "\/leo-langinger-portfolio\/js\/min\/jquery-2.2.0-min.js",
+		"inputAbbreviatedPath": "\/js\/jquery-2.2.0.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery-2.2.0-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/leo-langinger-portfolio\/leo-langinger-portfolio.html": {
+	"\/leo-langinger-portfolio.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/leo-langinger-portfolio\/leo-langinger-portfolio.html",
+		"inputAbbreviatedPath": "\/leo-langinger-portfolio.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -152,9 +161,9 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "Project Folder",
+	"displayValue": "bootstrap",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "globe_yellow"
+	"iconImageName": "pencil_darkGray"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
